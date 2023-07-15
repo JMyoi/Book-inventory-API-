@@ -36,3 +36,25 @@ A Node.js and Express.js application with the PostgreSQL database connection est
 The "books" table created in the PostgreSQL database.
 CRUD routes implemented for the bookstore inventory API.
 Successful test results from Postman, including valid request responses.
+
+
+Postman testing API
+<p>Post</p>
+  <img width="778" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/d50b6035-a562-4e6f-80ce-bae68f7366f7">
+<p>Get</p>
+<img width="778" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/e67979ae-287c-4e93-883a-0fbbfe07b010">
+<p>Get</p>
+<img width="772" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/bd900d06-29d4-4e5c-8536-ad251f53897b">
+<img width="779" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/cf03a1a8-7ca8-411c-afc5-200f374ce2f0">
+
+<p>Patch</p>
+<img width="777" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/7f7cc4df-45d0-4d66-9e21-a613aaa527ab">
+<img width="774" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/16dc022a-00be-480a-95e3-5bd7ba7a59af">
+
+<p>Delete</p>
+<img width="784" alt="image" src="https://github.com/JMyoi/Book-inventory-API-/assets/127246162/a9d6f7f6-94d9-428f-bc39-07838f5582f2">
+
+
+
+
+
