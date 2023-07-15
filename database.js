@@ -15,7 +15,7 @@ CREATE TABLE IF NOT EXISTS books (
     title VARCHAR(255) NOT NULL,
     author VARCHAR(255) NOT NULL,
     genre VARCHAR(255) NOT NULL,
-    description VARCHAR(255) NOT NULL,
+    description TEXT,
     price INTEGER NOT NULL,
     datePublished DATE NOT NULL
 );
